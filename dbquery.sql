@@ -1,0 +1,1 @@
+create table abc(name varchar(20));
